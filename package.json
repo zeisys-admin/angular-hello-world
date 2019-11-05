@@ -2,6 +2,7 @@
    "name": "angular",
    "version": "0.0.1",
    "description": "My Project",
+   "main": "server.js",
    "dependencies": {
         "express": "*"
     },
@@ -9,6 +10,5 @@
    "scripts": {
          "start": "node server.js"
     },
-   "main": "server.js",
    "homepage": "/"
 }
